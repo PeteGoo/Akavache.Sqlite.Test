@@ -1,0 +1,1 @@
+A project to quickly test using Akavache with SQLite on a Windows Phone 8 project.
